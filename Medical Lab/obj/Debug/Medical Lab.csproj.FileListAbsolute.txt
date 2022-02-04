@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\bin\Debug\Medical Lab.exe.config
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\bin\Debug\Medical Lab.exe
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\bin\Debug\Medical Lab.pdb
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Properties.Resources.resources
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.csproj.CopyComplete
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.exe
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical Lab.pdb
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Laboratorians.resources
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Login.resources
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Results.resources
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Patients.resources
+C:\Users\Dell\source\repos\Medical Lab\Medical Lab\obj\Debug\Medical_Lab.Tests.resources
